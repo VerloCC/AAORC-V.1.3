@@ -1,0 +1,41 @@
+[
+	{
+		"name": "The Empire of Aurelian Ascendancy",
+		"leaderName": "Valentina",
+		"adjective": ["Aurelian"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "I will coat this world with lead and replace the seas with red.",
+		"startIntroPart2": "I will make them kneel before my very eyes, I want to see them beg for forgiveness.",
+		
+		"declaringWar": "Prepare for your own demise.",
+		"attacked": "You stand in the way of the Aurelian Army? Thenw you stand in the way of your own demise.",
+		"defeated": "... I'm sorry for my cruelty, this death was long awaited byt those around me. You may take my life now, I have failed as a leader, I have failed as a general, I have failed as an innovator, I have failed as a person and I have failed to be a human. I may now rest in a grave I have dug myself, and I can join my parents once and for all. Thank you.",
+		"introduction": "I will be closely watching your every move.",
+		
+		"neutralHello": "You called me?",
+		"neutralLetsHearIt": ["Yes?","Greetings?"],
+		"neutralNo": ["Not happening.","No.","Declined."],
+		"neutralYes": ["Lovely.","I only agree because it benifits me.","Very well."],
+
+		"hateHello": "You wish to speak to me?",
+		"hateLetsHearIt": ["Go on.","Fine, I'll give you the time of day."],
+		"hateNo": ["Not going to happen.","We wont submit.","Declined."],
+		"hateYes": ["Fine...","Hmm... Just this once..."],
+		
+		"afterPeace": "Well, what's done is done",
+		"tradeRequest": "This is merely for my benifit.",
+
+		"outerColor": [151, 26, 62],
+		"innerColor": [0,0,0],
+		"uniqueName": "Valentina's Rule",
+		"uniques": ["[-10]% [Happiness]", "[-80]% [Happiness] [in puppeted cities]", "May not annex cities", "[-40]% growth [in puppeted cities]",
+			"Quantity of strategic resources produced by the empire [+100]%", "[+60]% [Gold] [in all cities]", "Science gained from research agreements [+50]%",
+			"[+50]% maintenance costs <for [All] units>", "[+20]% Strength for cities", "When declaring friendship, both parties gain a [25]% boost to great person generation",
+			"[+100]% [Science]", "[1] additional attacks per turn",  "[-50]% construction time for [All] improvements", 
+			"Cities are razed [20] times as fast", "[+20]% Strength for cities", "Will not be displayed in Civilopedia"],
+		"cities": ["XTC-Secotr 01","Sub-Sector I","Sub-Sector II","Sub-Sector III","Sub-Sector IV","Sub-Sector V","Sub-Sector VI",
+			"Sub-Sector VII","Sub-Sector VIII","Sub-Sector IX","Sub-Sector X"]
+	}
+]

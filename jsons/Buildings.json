@@ -1,0 +1,53 @@
+[
+	{
+		"name": "Propaganda Broadcast",
+		"happiness": 50,
+		"cost": 100,
+		"requiredTech": "Radio"
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy"
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Institute Of Research Affairs",
+		"production": 2,
+		"happiness": 1,
+		"culture": 2,
+		"gold": 5,
+		"cost": 40,
+		"maintenance": 2,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["Gain [3] [Science] <every [5] turns>", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Institute Of Espionage",
+		"production": 2,
+		"happiness": 1,
+		"culture": 2,
+		"gold": 5,
+		"cost": 100,
+		"maintenance": 2,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["Gain an extra spy <every [15] turns>", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Kriegsmacht Institute",
+		"production": 1,
+		"happiness": 2,
+		"faith": 2,
+		"culture": 1,
+		"gold": 4,
+		"cost": 100,
+		"requiredTech": "Gunpowder"
+		"maintenance": 2,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["New [All] units start with [20] Experience [in this city]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Resource Optimizer Algorithm",
+		"cost": 80,
+		"requiredTech": "Mathematics"
+		"maintenance": 1,
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City"]
+	}
+]
