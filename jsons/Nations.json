@@ -33,4 +33,38 @@
 		"cities": ["Altspire","Steelforge","Greenspur","Mercadia","Ironcrest","Brighton","Skyline",
 			"Pinnacle","Stonewall","Northgate","Highpoint"]
 	},
+	{
+		"name": "Aurelia",
+		"leaderName": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
+		"adjective": ["Aurelian"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
+		"startIntroPart2": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
+		
+		"declaringWar": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
+		"attacked": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
+		"defeated": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
+		"introduction": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
+		
+		"neutralHello": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
+		"neutralLetsHearIt": ["XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx","XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx"],
+		"neutralNo": ["XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx"],
+		"neutralYes": ["XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx"],
+
+		"hateHello": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
+		"hateLetsHearIt": ["XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx"],
+		"hateNo": ["XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx"],
+		"hateYes": ["XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx"],
+		
+		"afterPeace": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
+		"tradeRequest": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
+
+		"outerColor": [180, 72, 1],
+		"innerColor": [0,0,0],
+		"uniqueName": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
+		"uniques": ["[+20]% [Production]", "[-100]% maintenance cost for buildings [in all cities]", "[+25]% construction time for [All] improvements", : "No Maintenance costs for improvements in [All] tiles", "[-20]% Strength <for [All] units>"],
+		"cities": ["Altspire","Steelforge","Greenspur","Mercadia","Ironcrest","Brighton","Skyline",
+			"Pinnacle","Stonewall","Northgate","Highpoint"]
+	},
 ]
