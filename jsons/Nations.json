@@ -26,7 +26,7 @@
 		"afterPeace": "I hope it stays this way...",
 		"tradeRequest": "I hope we both benifit from this.",
 
-		"outerColor": [151, 26, 62],
+		"outerColor": [180, 72, 1],
 		"innerColor": [0,0,0],
 		"uniqueName": "Construction, or destruction",
 		"uniques": ["[+20]% [Production]", "[-100]% maintenance cost for buildings [in all cities]", "[+25]% construction time for [All] improvements", : "No Maintenance costs for improvements in [All] tiles"],
