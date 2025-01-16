@@ -29,13 +29,13 @@
 		"outerColor": [180, 72, 1],
 		"innerColor": [0,0,0],
 		"uniqueName": "Construction, or destruction",
-		"uniques": ["[+20]% [Production]", "[-100]% maintenance cost for buildings [in all cities]", "[+25]% construction time for [All] improvements", : "No Maintenance costs for improvements in [All] tiles", "[-20]% Strength <for [All] units>"],
+		"uniques": ["[+20]% [Production]", "[-100]% maintenance cost for buildings [in all cities]", "[+25]% construction time for [All] improvements", "No Maintenance costs for improvements in [All] tiles", "[-20]% Strength <for [All] units>"],
 		"cities": ["Altspire","Steelforge","Greenspur","Mercadia","Ironcrest","Brighton","Skyline",
 			"Pinnacle","Stonewall","Northgate","Highpoint"]
 	},
 	{
 		"name": "Aurelia",
-		"leaderName": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
+		"leaderName": "Valeria Cassius",
 		"adjective": ["Aurelian"],
 		"preferredVictoryType": "Domination",
 		
@@ -60,11 +60,11 @@
 		"afterPeace": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
 		"tradeRequest": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
 
-		"outerColor": [180, 72, 1],
+		"outerColor": [236, 236, 96],
 		"innerColor": [0,0,0],
-		"uniqueName": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
-		"uniques": ["[+20]% [Production]", "[-100]% maintenance cost for buildings [in all cities]", "[+25]% construction time for [All] improvements", : "No Maintenance costs for improvements in [All] tiles", "[-20]% Strength <for [All] units>"],
-		"cities": ["Altspire","Steelforge","Greenspur","Mercadia","Ironcrest","Brighton","Skyline",
-			"Pinnacle","Stonewall","Northgate","Highpoint"]
+		"uniqueName": "Gold and Lead",
+		"uniques": ["[+20]% [Gold]", "[+25]% construction time for [Gold] improvements", "[-5]% [Happiness]"],
+		"cities": ["Goldenspire","Aurelis","Imperius","Regalia","Prestigia","Nobleheart","Opalcrest",
+			"Crownport","Sovereign","Splendoris","Prospera"]
 	},
 ]
