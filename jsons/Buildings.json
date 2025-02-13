@@ -5,7 +5,7 @@
 		"requiredTech": "Steel"
 		"maintenance": 0,
 		"uniqueTo": "Pyrameth"
-		"uniques": ["[+3 Production]", "[+5]% [Production]"]
+		"uniques": ["[+1 Production]", "[+2]% [Production]"]
 	},
 	{
 		"name": "Implimentation of Lightweight Materials",
@@ -13,7 +13,7 @@
 		"requiredTech": "Engineering"
 		"maintenance": 0,
 		"uniqueTo": "Pyrameth"
-		"uniques": ["[+3 Production]", "[+5]% [Production]"]
+		"uniques": ["[+2 Production]", "[+3]% [Production]"]
 	},
 	{
 		"name": "Implimentation of Blueprints",
@@ -21,7 +21,7 @@
 		"requiredTech": "Printing Press"
 		"maintenance": 0,
 		"uniqueTo": "Pyrameth"
-		"uniques": ["[+3 Production]", "[+5]% [Production]"]
+		"uniques": ["[+3 Production]", "[+4]% [Production]"]
 	},
 	{
 		"name": "Usage of Heavy Machinery",
@@ -45,7 +45,7 @@
 		"requiredTech": "Robotics"
 		"maintenance": 0,
 		"uniqueTo": "Pyrameth"
-		"uniques": ["[+5 Production]", "[+10]% [Production]"]
+		"uniques": ["[+3 Production]", "[+5]% [Production]"]
 	},
 	{
 		"name": "Cost Efficient Materials",
@@ -54,5 +54,69 @@
 		"maintenance": 0,
 		"uniqueTo": "Pyrameth"
 		"uniques": ["[+3 Production]", "[+5]% [Production]"]
+	},
+	{
+		"name": "Alloyed Coins",
+		"cost": 200,
+		"requiredTech": "Steel"
+		"maintenance": 0,
+		"uniqueTo": "Aurelia"
+		"uniques": ["[+1 Gold]", "[+2]% [Gold]"]
+	},
+	{
+		"name": "International Currency",
+		"cost": 200,
+		"requiredTech": "Engineering"
+		"maintenance": 0,
+		"uniqueTo": "Aurelia"
+		"uniques": ["[+2 Gold]", "[+3]% [Gold]"]
+	},
+	{
+		"name": "Coin Casting",
+		"cost": 200,
+		"requiredTech": "Printing Press"
+		"maintenance": 0,
+		"uniqueTo": "Aurelia"
+		"uniques": ["[+3 Gold]", "[+4]% [Gold]"]
+	},
+	{
+		"name": "Government Bonds",
+		"cost": 200,
+		"requiredTech": "Industrialization"
+		"maintenance": 0,
+		"uniqueTo": "Aurelia"
+		"uniques": ["[+3 Gold]", "[+5]% [Gold]"]
+	},
+	{
+		"name": "Currency Control",
+		"cost": 200,
+		"requiredTech": "Physics"
+		"maintenance": 0,
+		"uniqueTo": "Aurelia"
+		"uniques": ["[+3 Gold]", "[+5]% [Gold]"]
+	},
+	{
+		"name": "Digital Currency",
+		"cost": 200,
+		"requiredTech": "Robotics"
+		"maintenance": 0,
+		"uniqueTo": "Aurelia"
+		"uniques": ["[+3 Gold]", "[+5]% [Gold]"]
+	},
+	{
+		"name": "Automated Currency Control",
+		"cost": 200,
+		"requiredTech": "Replacable Parts"
+		"maintenance": 0,
+		"uniqueTo": "Aurelia"
+		"uniques": ["[+3 Gold]", "[+5]% [Gold]"]
+	},
+	{
+		"name": "Increased taxes",
+		"cost": 200,
+		"requiredTech": "Printing Press"
+		"maintenance": 0,
+		"uniqueTo": "Aurelia"
+		"uniques": ["[-5 Happiness]", "[+10]% [Gold]"]
 	},
 ]
