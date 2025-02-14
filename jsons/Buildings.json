@@ -50,7 +50,7 @@
 	{
 		"name": "Cost Efficient Materials",
 		"cost": 200,
-		"requiredTech": "Replacable Parts"
+		"requiredTech": "Replaceable Parts"
 		"maintenance": 0,
 		"uniqueTo": "Pyrameth"
 		"uniques": ["[+3 Production]", "[+5]% [Production]"]
@@ -106,7 +106,7 @@
 	{
 		"name": "Automated Currency Control",
 		"cost": 200,
-		"requiredTech": "Replacable Parts"
+		"requiredTech": "Replaceable Parts"
 		"maintenance": 0,
 		"uniqueTo": "Aurelia"
 		"uniques": ["[+3 Gold]", "[+5]% [Gold]"]
